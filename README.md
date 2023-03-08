@@ -1,2 +1,2 @@
 # Example
-First Repo
+First Repository
